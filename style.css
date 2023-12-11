@@ -1,0 +1,23 @@
+body{
+width: 100%;
+height: 300px;
+background-color: skyblue;
+ }
+    
+ main{
+   display:flex;
+   margin: 5rem;
+    }
+    
+ .tabletop{
+   /* width: 8rem;
+   height: 5rem; */
+ }
+    
+.section2{
+   width: 45%;
+   height: 14%;
+   background-color: white;
+   padding: 35px;
+   border-radius: 8px;
+}
